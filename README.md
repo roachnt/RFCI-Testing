@@ -1,4 +1,4 @@
-#RFCI Testing
+# RFCI Testing
 
 Each of the directories in this repository represents a 
 comparison of three different fault localization techniques on a given program.
